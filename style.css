@@ -1,0 +1,36 @@
+body{
+	background-color: purple;
+	text-align:center;
+	color: white;
+}
+
+img {
+	height:250px;
+	border-radius: 20%;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+a {
+	color: white;
+}
+
+#nicetitle {
+	color: #fff;
+   font-family: 'freight-big-pro';
+   font-size: 60px;
+   font-weight: normal;
+   letter-spacing: -2.5px;
+   overflow-wrap: break-world;
+}
+
+.beersheva{
+	color: red;
+	background-color:yellow;
+}
+
+
+
+
+
+
+
